@@ -42,6 +42,7 @@ Test Case 3: Mereset Transaction yang telah dibuat
 ![Test Case 3](https://github.com/RickoExetrada/Gambar/blob/main/Test%203.PNG)
 
 Test Case 4: Melihat total belanja
+
 ![Test Case 4](https://github.com/RickoExetrada/Gambar/blob/main/Test%204.1.PNG)
 
 F. Kesimpulan
