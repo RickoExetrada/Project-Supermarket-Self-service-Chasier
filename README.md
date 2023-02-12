@@ -14,4 +14,6 @@ Membuat sistem self service cashier yang memiliki fitur sebagai berikut:
 5. Update ItemQty: update jumlah barang yang ingin diinput
 6. Update ItemName: Mengubah nama item yang telah diinput
 7. Check Item : melihat seluruh data transaksi yang dimuat
-   
+ 
+C.Flowchart
+![FlowChart](https://github.com/RickoExetrada/Gambar/blob/main/Untitled.png)
